@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Wei Xumin_CV.pdf
     design:
       css_class: dark
       # Avatar customization
@@ -39,11 +39,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I have a solid background across physics, materials, and coding, and more importantly, I am highly hands-on: I participated in the development of the Shenzhen Large-scale Scientific Facility Platform, independently built complex optical setups, published an Applied Physics Letters(Nature Index) paper as first author.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Shenzhen Large-scale Scientific Facility Platform provides access to High Performance Computing cluster, as well as a wide range of advanced imported characterization instruments(keysight PNA Network Analyzer N5227B, Keithley 4200A-SCS Parameter Analyzer, Probe Station...).😃
     design:
       columns: '1'
   - block: collection
@@ -86,7 +84,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ""
