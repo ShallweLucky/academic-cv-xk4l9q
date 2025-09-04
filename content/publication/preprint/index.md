@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "High-throughput investigation of second harmonic generation enhancement in indium tin oxide films: Effects of Sn doping"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-10-30T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,39 +16,19 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The doping effect of the Sn atom in indium tin oxide (ITO) plays a crucial role in influencing the epsilon-near-zero (ENZ) behaviors and the
+related nonlinear optical properties. A ternary (In1xSnx)2O3 film is fabricated by high-throughput magnetron sputtering technique. The rela-tionship
+between Sn doping and second harmonic generation (SHG) enhancement is systematically interpreted through comprehensive char-acterization
+of structural and optical properties. Significantly, clear microstructural changes associated with different levels of Sn doping are
+identified by x-ray diffraction and Raman spectroscopy. These changes directly contribute to shifts in the ENZ wavelength (kENZ). The results
+indicate that the optimal region for SHG enhancement lies within 7.3–10.6 at. % Sn doping. Moreover, it is demonstrated that kENZ can be
+adjusted by manipulating the formation of electrically inactive defect clusters via Sn substitution at the 24d sites. This study not only provides
+valuable insight into the mechanism linking Sn doping and SHG enhancement of ITO but also exemplifies the high-throughput exploration
+of optical functional materials.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Large Language Models
 
 featured: true
-
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
-links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -79,4 +59,4 @@ This work is driven by the results in my [previous paper](/publication/conferenc
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
