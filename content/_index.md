@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "ME"
 date: 2022-10-24
 type: landing
 
@@ -39,9 +39,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I have a solid background across physics, materials, and coding, and more importantly, I am highly hands-on: I participated in the development of the Shenzhen Large-scale Scientific Facility Platform, independently built complex optical setups, published an Applied Physics Letters(Nature Index) paper as first author.
+        I have a solid background across **physics, materials, and coding**, and more importantly, I am highly hands-on: I participated in the development of the Shenzhen Large-scale Scientific Facility Platform, independently built complex optical setups, published an **Applied Physics Letters**(Nature Index) paper as first author.
 
-        Shenzhen Large-scale Scientific Facility Platform provides access to High Performance Computing cluster, as well as a wide range of advanced imported characterization instruments(keysight PNA Network Analyzer N5227B, Keithley 4200A-SCS Parameter Analyzer, Probe Station...).😃
+        **Shenzhen Large-scale Scientific Facility Platform** provides access to **High Performance Computing cluster**, as well as a wide range of **advanced imported characterization instruments**(keysight PNA Network Analyzer N5227B, Keithley 4200A-SCS Parameter Analyzer, Probe Station...).😃
     design:
       columns: '1'
   - block: collection
